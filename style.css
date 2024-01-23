@@ -1,7 +1,7 @@
 :root{
-  --primary:#FFB996;
-  --secondary: #92C7CF;
-  --extra: #FFECD6;
+  --primary:#BBAB8C;
+  --secondary: #FAEED1;
+  --extra: #FDF7E4;
 }
 
 * {
@@ -128,7 +128,7 @@ nav .mobile-nav {
 
 .card-2 {
   width: 90%;
-  color: azure;
+  color: black;
   text-align: left;
   display: flex;
   flex-direction: column;

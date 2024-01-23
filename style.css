@@ -161,7 +161,7 @@ nav .mobile-nav {
   padding: 10px 40px;
   border-radius: 20px;
   border: none;
-  background-color: tomato;
+  background-color: #B19470;
 
   margin-top: 5px;
 }
@@ -437,7 +437,7 @@ nav .mobile-nav {
   nav .nav{
     
     display: block;
-    background-color: rgba(255, 78, 78, 0.787);
+    background-color: rgba(205, 34, 34, 0.787);
     
   }
   nav .mobile-nav{

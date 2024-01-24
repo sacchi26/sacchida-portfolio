@@ -522,7 +522,7 @@ nav .mobile-nav {
     .home{
       background-color: var(--secondary);
       height: 80vh;
-      background-color: black;
+      background-color: #FAEED1 ;
     }
     .home .card-1{
       margin-left: 156px;

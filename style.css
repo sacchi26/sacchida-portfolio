@@ -114,7 +114,6 @@ nav .mobile-nav {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: black;
   gap: 10px;
   padding-bottom: 20px;
 }
@@ -523,6 +522,7 @@ nav .mobile-nav {
     .home{
       background-color: var(--secondary);
       height: 80vh;
+      background-color: black;
     }
     .home .card-1{
       margin-left: 156px;
